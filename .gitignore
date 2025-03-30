@@ -1,0 +1,26 @@
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+.vs/
+*.swp
+*.cache
+*.orig
+*_ReSharper.*
+*.dotCover
+*.pidb
+*.log
+*.ncrunchsolution
+*.ncrunchproject
+*.DS_Store
+*.sql
+*.sqlite
+appsettings.Development.json
+appsettings.private.json
+/TestResults/
+/packages/
+/wwwroot/lib/
